@@ -1,2 +1,2 @@
 from .db_base import Base
-from .db_config import DbConnectionHandler
+from .db_config import DBConnectionHandler
